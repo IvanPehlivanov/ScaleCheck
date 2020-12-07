@@ -1,0 +1,15 @@
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\obj\Debug\ScaleCheck.csprojAssemblyReference.cache
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\obj\Debug\MainWindow.g.cs
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\obj\Debug\App.g.cs
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\obj\Debug\ScaleCheck_MarkupCompile.cache
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\obj\Debug\ScaleCheck_MarkupCompile.lref
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\bin\Debug\ScaleCheck.exe.config
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\bin\Debug\ScaleCheck.exe
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\bin\Debug\ScaleCheck.pdb
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\obj\Debug\MainWindow.baml
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\obj\Debug\ScaleCheck.g.resources
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\obj\Debug\ScaleCheck.Properties.Resources.resources
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\obj\Debug\ScaleCheck.csproj.GenerateResource.cache
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\obj\Debug\ScaleCheck.csproj.CoreCompileInputs.cache
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\obj\Debug\ScaleCheck.exe
+C:\Users\rosar\source\repos\ScaleCheck\ScaleCheck\obj\Debug\ScaleCheck.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleCheck", "ScaleCheck\ScaleCheck.csproj", "{A46A97FE-225D-4969-8C48-D60BFE1AA66A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46A97FE-225D-4969-8C48-D60BFE1AA66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46A97FE-225D-4969-8C48-D60BFE1AA66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46A97FE-225D-4969-8C48-D60BFE1AA66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46A97FE-225D-4969-8C48-D60BFE1AA66A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7DCE5F8-AAAD-4F4D-BDCE-384D497F3C29}
+	EndGlobalSection
+EndGlobal
